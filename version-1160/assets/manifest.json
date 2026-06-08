@@ -1,0 +1,19 @@
+{
+  "siteName": "最新国产剧",
+  "siteTitle": "国产电影视频免费在线观看_最新高清大片片库-最新国产剧",
+  "movieCount": 2000,
+  "categoryCount": 10,
+  "detailPageCount": 2000,
+  "categories": {
+    "guochan-xinpian": 200,
+    "gaoqing-dapian": 200,
+    "rebo-juji": 200,
+    "rihan-jingxuan": 200,
+    "oumei-yingyuan": 200,
+    "dongzuo-fanzui": 200,
+    "xuanyi-jingsong": 200,
+    "xiju-aiqing": 200,
+    "kehuan-qihuan": 200,
+    "donghua-dongman": 200
+  }
+}

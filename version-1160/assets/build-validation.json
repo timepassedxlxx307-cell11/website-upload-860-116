@@ -1,0 +1,22 @@
+{
+  "txt_movies": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2014,
+  "category_total": 2000,
+  "categories": {
+    "guochan-xinpian": 200,
+    "gaoqing-dapian": 200,
+    "rebo-juji": 200,
+    "rihan-jingxuan": 200,
+    "oumei-yingyuan": 200,
+    "dongzuo-fanzui": 200,
+    "xuanyi-jingsong": 200,
+    "xiju-aiqing": 200,
+    "kehuan-qihuan": 200,
+    "donghua-dongman": 200
+  },
+  "baidu_missing": [],
+  "image_files_in_zip_source": [],
+  "orphan_movie_ids": [],
+  "zip_size": 19513593
+}
